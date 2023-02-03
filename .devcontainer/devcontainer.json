@@ -11,6 +11,5 @@
 				"ms-python.vscode-pylance"
 			]
 		}
-	},
-	"runArgs": ["--env-file",".devcontainer/devcontainer.env"]
+	}
 }
